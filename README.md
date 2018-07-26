@@ -1,5 +1,5 @@
 # DailyUI-Archive
-Archive of my completed Daily UI challenges. Below is a list of the challenges in order and link to each of completed project:
+Archive of my completed Daily UI challenges. The list is take from [Collect UI](http://collectui.com/challenges) site and inlcudes aditional prompts. Below is a list of the challenges in order and link to each of completed project:
 
 
 1. Sign Up
@@ -9,7 +9,7 @@ Archive of my completed Daily UI challenges. Below is a list of the challenges i
 5. App Icon
 6. User Profile
 7. Settings
-8. [404 Page](.../08-404 Page/Desktop HD - Mockup.png)
+8. [404 Page](/08-404Page/DesktopHD-Mockup.png)
 9. Music Player
 10. Social Share
 11. Flash Messages
@@ -148,4 +148,19 @@ Archive of my completed Daily UI challenges. Below is a list of the challenges i
 148. App Screens
 149. Travel Destination
 150. Real Estate
-151. Welcome Screen
+152. Online Course 
+153. Bot Interface 
+154. Halloween 
+155. Comments 
+156. Business Card 
+157. Book Cover 
+158. Packaging 
+159. Calligraphy 
+160. Documentation 
+161. Stranger Things 
+162. Online Blog / Magazine 
+163. Album Cover 
+164. Error State 
+165. Pitch Deck 
+166. Infographic 
+167. Scroll Transition
