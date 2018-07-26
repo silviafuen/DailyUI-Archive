@@ -1,8 +1,10 @@
 # DailyUI-Archive
-Archive of my completed Daily UI challenges. The list is take from [Collect UI](http://collectui.com/challenges) site and inlcudes aditional prompts. Below is a list of the challenges in order and link to each of completed project:
+Archive of my completed Daily UI challenges and the resources I used to learn about designing for each process. The list is take from [Collect UI](http://collectui.com/challenges) site and includes additional prompts. Below is a list of the challenges in order and link to each of completed project:
 
 
-1. Sign Up
+1. [Sign Up](/001-SignUp/001-Prototype.mp4)
+...*[10 signup page do and don’t](https://blog.prototypr.io/10-signup-page-do-and-dont-d4bd93ba2c8f?token=lNPNFOyTTZzWoGb9)
+...*[How to Design Great UX for Sign Up Form](https://uxplanet.org/how-to-design-great-ux-for-sign-up-form-8ce39f84659)
 2. Checkout
 3. Landing Page
 4. Calculator
@@ -148,19 +150,19 @@ Archive of my completed Daily UI challenges. The list is take from [Collect UI](
 148. App Screens
 149. Travel Destination
 150. Real Estate
-152. Online Course 
-153. Bot Interface 
-154. Halloween 
-155. Comments 
-156. Business Card 
-157. Book Cover 
-158. Packaging 
-159. Calligraphy 
-160. Documentation 
-161. Stranger Things 
-162. Online Blog / Magazine 
-163. Album Cover 
-164. Error State 
-165. Pitch Deck 
-166. Infographic 
+152. Online Course
+153. Bot Interface
+154. Halloween
+155. Comments
+156. Business Card
+157. Book Cover
+158. Packaging
+159. Calligraphy
+160. Documentation
+161. Stranger Things
+162. Online Blog / Magazine
+163. Album Cover
+164. Error State
+165. Pitch Deck
+166. Infographic
 167. Scroll Transition
