@@ -9,7 +9,7 @@ Archive of my completed Daily UI challenges. Below is a list of the challenges i
 5. App Icon
 6. User Profile
 7. Settings
-8. [404 Page](.../08-404 Page/Desktop HD - Mockup.png)
+8. [404 Page](../08-404Page/DesktopHD-Mockup.png)
 9. Music Player
 10. Social Share
 11. Flash Messages
