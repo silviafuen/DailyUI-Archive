@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  //$(".pop-up").show(600);
+  $(".open").on('click',function(){
+        $(".pop-up").show();
+    });
+  $(".close").on('click',function(){
+        $(".pop-up").hide();
+    });
+});

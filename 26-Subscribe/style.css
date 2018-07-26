@@ -1,0 +1,18 @@
+body {
+  background-color: #69A2F8;
+  color: #F9FAF2;
+}
+.oops {
+  margin: 1%;
+  text-align: center;
+}
+
+.btn-submit {
+  background-color: #F9D4C2;
+  color: #fff;
+}
+
+.btn-submit:hover {
+  background-color: #EFC6AE;
+  color: #fff;
+}

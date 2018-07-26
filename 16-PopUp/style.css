@@ -1,0 +1,55 @@
+h2 {
+  color: #F7F9F9;
+  font-size: 235%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+p,button {
+  color: #4A4A4A;
+  font-family: 'Montserrat', sans-serif;
+}
+.call {
+  font-size: 265%;
+  font-family: 'Sacramento', cursive;
+  font-weight: 400;
+}
+
+
+.pop-up {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.inner {
+  text-align: center;
+  border-style: solid;
+  border-color: #3D93A7;
+  background-image: url("items.png");
+  background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #D5F0EC;
+  width: 700px;
+  height: 375px;
+  padding: 20px;
+  margin: 15% auto;
+}
+.content {
+  padding: 55px;
+}
+
+/*******BUTTONS*******/
+.exit {
+  float: right;
+}
+.join {
+  background-color: #3D93A7;
+  color: #F7F9F9;
+}
+.join:hover {
+  background-color: #1B687A;
+  color: #F7F9F9;
+}
