@@ -2,12 +2,14 @@
 Archive of my completed Daily UI challenges and the resources I used to learn about designing for each process. The list is take from [Collect UI](http://collectui.com/challenges) site and includes additional prompts. Below is a list of the challenges in order and link to each of completed project:
 
 1. [Sign Up](/001-SignUp/001-overview.jpg)
-..*[10 signup page do and don’t](https://blog.prototypr.io/10-signup-page-do-and-dont-d4bd93ba2c8f?token=lNPNFOyTTZzWoGb9)
-..*[How to Design Great UX for Sign Up Form](https://uxplanet.org/how-to-design-great-ux-for-sign-up-form-8ce39f84659)
+    *[10 signup page do and don’t](https://blog.prototypr.io/10-signup-page-do-and-dont-d4bd93ba2c8f?token=lNPNFOyTTZzWoGb9)
+    *[How to Design Great UX for Sign Up Form](https://uxplanet.org/how-to-design-great-ux-for-sign-up-form-8ce39f84659)
 2. [Checkout](/002-Checkout/checkout.gif)
-..*[How to Design an eCommerce Checkout Flow That Converts](https://conversionxl.com/blog/how-to-design-an-ecommerce-checkout-flow-that-converts/)
-..*[These 11 Tips Will Help You Design Successful Checkouts](https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78f54a6751b)
-3. Landing Page
+    *[How to Design an eCommerce Checkout Flow That Converts](https://conversionxl.com/blog/how-to-design-an-ecommerce-checkout-flow-that-converts/)
+    *[These 11 Tips Will Help You Design Successful Checkouts](https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78f54a6751b)
+3. [Landing Page](/003-LandingPage/10-Landing.jpg)
+    *[Improve your landing page by learning from the best](https://medium.com/sketch-app-sources/improve-your-landing-page-by-learning-from-the-best-ddb431aa1c04)
+    *[Using Design Theory to Create Beautiful, High-Coverting Landing pages](https://www.invisionapp.com/blog/high-converting-landing-pages/)
 4. Calculator
 5. App Icon
 6. User Profile
