@@ -5,7 +5,9 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
 1. [Sign Up](/001-SignUp/001-overview.jpg)
 ..*[10 signup page do and don’t](https://blog.prototypr.io/10-signup-page-do-and-dont-d4bd93ba2c8f?token=lNPNFOyTTZzWoGb9)
 ..*[How to Design Great UX for Sign Up Form](https://uxplanet.org/how-to-design-great-ux-for-sign-up-form-8ce39f84659)
-2. Checkout
+2. [Checkout](/002-Checkout/checkout.gif)
+..*[How to Design an eCommerce Checkout Flow That Converts](https://conversionxl.com/blog/how-to-design-an-ecommerce-checkout-flow-that-converts/)
+..*[These 11 Tips Will Help You Design Successful Checkouts](https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78f54a6751b)
 3. Landing Page
 4. Calculator
 5. App Icon
