@@ -1,7 +1,6 @@
 # DailyUI-Archive
 Archive of my completed Daily UI challenges and the resources I used to learn about designing for each process. The list is take from [Collect UI](http://collectui.com/challenges) site and includes additional prompts. Below is a list of the challenges in order and link to each of completed project:
 
-
 1. [Sign Up](/001-SignUp/001-overview.jpg)
 ..*[10 signup page do and don’t](https://blog.prototypr.io/10-signup-page-do-and-dont-d4bd93ba2c8f?token=lNPNFOyTTZzWoGb9)
 ..*[How to Design Great UX for Sign Up Form](https://uxplanet.org/how-to-design-great-ux-for-sign-up-form-8ce39f84659)
