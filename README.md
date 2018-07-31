@@ -10,7 +10,7 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
 3. [Landing Page](/003-LandingPage/10-Landing.jpg)
     * [Improve your landing page by learning from the best](https://medium.com/sketch-app-sources/improve-your-landing-page-by-learning-from-the-best-ddb431aa1c04)
     * [Using Design Theory to Create Beautiful, High-Coverting Landing pages](https://www.invisionapp.com/blog/high-converting-landing-pages/)
-4. Calculator
+4. [Calculator](/004-Calculator/calculator.jpg)
 5. App Icon
 6. User Profile
 7. Settings
