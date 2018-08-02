@@ -14,7 +14,8 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
 5. [App Icon](005-AppIcon/005-AppIcon.jpg)
     * [Shape and Color in Logo Design. Practical Cases.](https://medium.com/@tubikstudio/shape-and-color-in-logo-design-practical-cases-65df7e4c4e1a)
     * A recycled design from a previous project, I did read up on app icon/logo design and realized I did a pretty decent job without prior knowledge while analyzing it.
-6. User Profile
+6. [User Profile](/006-UserProfile/userprofile-preview.jpg)
+    * [Tell Me About Me – User Profiles for Mobile Applications](https://www.interaction-design.org/literature/article/tell-me-about-me-user-profiles-for-mobile-applications)
 7. Settings
 8. 404 Page
 9. Music Player
