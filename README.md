@@ -11,7 +11,9 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
     * [Improve your landing page by learning from the best](https://medium.com/sketch-app-sources/improve-your-landing-page-by-learning-from-the-best-ddb431aa1c04)
     * [Using Design Theory to Create Beautiful, High-Coverting Landing pages](https://www.invisionapp.com/blog/high-converting-landing-pages/)
 4. [Calculator](/004-Calculator/calculator.jpg)
-5. App Icon
+5. [App Icon](005-AppIcon/005-AppIcon.jpg)
+    * [Shape and Color in Logo Design. Practical Cases.](https://medium.com/@tubikstudio/shape-and-color-in-logo-design-practical-cases-65df7e4c4e1a)
+    * A recycled design from a previous project, I did read up on app icon/logo design and realized I did a pretty decent job without prior knowledge while analyzing it.
 6. User Profile
 7. Settings
 8. 404 Page
