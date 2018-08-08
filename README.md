@@ -16,7 +16,10 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
     * A recycled design from a previous project, I did read up on app icon/logo design and realized I did a pretty decent job without prior knowledge while analyzing it.
 6. [User Profile](/006-UserProfile/userprofile-preview.jpg)
     * [Tell Me About Me – User Profiles for Mobile Applications](https://www.interaction-design.org/literature/article/tell-me-about-me-user-profiles-for-mobile-applications)
-7. Settings
+7. [Settings](/007-Settings/settings-artboard.jpg)
+    * [Design Settings](https://medium.com/@imran_parvez/designing-settings-b2a96878961b)
+    * [6 Tips How to Apply Information Architecture in UX Design](https://tubikstudio.com/6-tips-how-to-apply-information-architecture-in-ux-design/)
+
 8. 404 Page
 9. Music Player
 10. Social Share
