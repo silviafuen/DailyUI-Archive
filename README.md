@@ -21,7 +21,7 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
     * [6 Tips How to Apply Information Architecture in UX Design](https://tubikstudio.com/6-tips-how-to-apply-information-architecture-in-ux-design/)
 8. [404 Page](/008-404Page/404page-preview.jpg)
     * [404 pages with the best UX yet: 6 design tips](https://www.justinmind.com/blog/6-best-practices-for-404-pages-with-killer-ux/)
-9. [Music Player](/008-MusicPlayer/008-MusicPlayer.gif)
+9. [Music Player](/009-MusicPlayer/009-MusicPlayer.gif)
     * I took a different approach, there isn't really a guide or tips on how to design a music player so I took the key elements and had fun this week, making a small desktop playlist app. Not the most logical, also lacking in some senses, but it helped me get my design juices flowing again(which is what I've been needing)
     * P.S. I made a light and dark version! (Wish I could of kept the color palette as small as possible tho)
 10. Social Share
