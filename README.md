@@ -30,7 +30,9 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
 13. Direct Messaging
 14. Countdown Timer
 15. On/Off Switch
-16. Pop-Up / Overlay
+16. [Pop-Up / Overlay](https://cdn.dribbble.com/users/1716352/screenshots/5572209/pop-up_overlay_-_dui_016.jpg)
+      * [Overuse of Overlays: How to Avoid Misusing Lightboxes](https://www.nngroup.com/articles/overuse-of-overlays/)
+      * [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
 17. Email Receipt
 18. Analytics Chart
 19. Leaderboard
