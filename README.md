@@ -33,7 +33,9 @@ Archive of my completed Daily UI challenges and the resources I used to learn ab
 16. [Pop-Up / Overlay](https://cdn.dribbble.com/users/1716352/screenshots/5572209/pop-up_overlay_-_dui_016.jpg)
       * [Overuse of Overlays: How to Avoid Misusing Lightboxes](https://www.nngroup.com/articles/overuse-of-overlays/)
       * [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
-17. Email Receipt
+17. [Email Receipt](https://cdn.dribbble.com/users/1716352/screenshots/5579005/dribbble_shot_hd__1_.jpg)
+      * [Creating Awesome Email Receipts](https://explore.reallygoodemails.com/creating-awesome-email-receipts-4aa1c8d52387)
+      * [ransactional Email Best Practices Illustrated with 29+ Examples](https://blog.chamaileon.io/transactional-emails/)
 18. Analytics Chart
 19. Leaderboard
 20. Location Tracker
